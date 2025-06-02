@@ -1,0 +1,76 @@
+:root{
+    --title-font: "Unbounded", sans-serif;
+    --primary-color:#9260F8;
+    --dark-color:#0F0716;
+}
+
+.custom-container{
+    width: min(1336px , 100%);
+    padding-inline: 15px;
+    margin-inline: auto;
+}
+
+.custom-container2{
+    width: min(1130px , 100%);
+    padding-inline: 15px;
+    margin-inline: auto;
+}
+
+.button-style{
+    font-family: var(--title-font);
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.2;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 40px;
+    text-transform: capitalize;
+    padding: 20px 36px;
+    transition: 0.5s;
+    background: #9260F8;
+    background: #9260F8;
+    background: #9260F8;
+    background: linear-gradient(90deg, rgba(146, 96, 248, 1) 53%, rgba(69, 38, 131, 1) 100%);
+    transition: 1.5s;
+}
+
+a.button-style:hover {
+    background: var(--primary-color);
+}
+
+.section-title{
+    font-family: var(--title-font);
+    font-size: 36px;
+    font-weight: 600;
+    text-transform: capitalize;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #9260F8 40%, #E4D7FD 70%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.section-subtitle{
+    font-family: var(--title-font);
+    font-size: 14px;
+    font-weight: 300;
+    text-transform: capitalize;
+    margin: 0 auto;
+    padding-top: 20px;
+    margin-bottom: 70px;
+    color: #fff;
+    max-width: 36%;
+    text-align: center;
+}
+
+#ui{
+    display: none;
+}
+
+#web-design{
+    display: none;
+}
+
+#web-development{
+    display: none;
+}

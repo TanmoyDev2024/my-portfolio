@@ -1,0 +1,1449 @@
+@media only screen and (max-width: 1600px) {
+
+    .core-skils {
+        padding: 70px 0;
+    }
+
+    .ball-shape {
+        top: 1720px;
+        right: 80px;
+        width: 327px;
+    }
+
+    .my-skil-section {
+        padding: 80px 0;
+    }
+
+    .hand-shape {
+        display: none;
+    }
+
+    .triangle-shape {
+        display: none;
+    }
+
+
+}
+
+@media only screen and (max-width: 1440px) {
+
+    .banner-and-header-block header .right-block {
+        margin-right: 50px;
+    }
+
+    .banner-and-header-block .banner-section {
+        padding: 80px 0;
+    }
+
+    .banner-and-header-block .banner-section .hero-text h1 {
+        font-size: 55px;
+    }
+
+    .banner-and-header-block .banner-section .banner-shape {
+        left: -19px;
+        width: 594px;
+    }
+
+    .banner-and-header-block .banner-section .hero-text h2 {
+        font-size: 25px;
+        margin-top: 28px;
+    }
+
+    .banner-and-header-block .banner-section .hero-text p {
+        font-size: 13px;
+        line-height: 20px;
+        margin-top: 17px;
+        max-width: 90%;
+    }
+
+    .button-style {
+        border-radius: 50px;
+        padding: 16px 30px;
+    }
+
+    .banner-and-header-block .banner-section .image-wraper {
+        width: 468px;
+        height: 455px;
+        position: relative;
+    }
+
+    .banner-and-header-block .banner-section .hero-text {
+        margin-left: 40px;
+    }
+
+    .banner-and-header-block .banner-section .image-wraper {
+        width: 430px;
+        height: 409px;
+        margin-right: 84px;
+    }
+
+    .core-skils {
+        padding: 60px 0;
+    }
+
+    .core-skils .card h3 {
+        font-size: 21px;
+        padding-top: 12px;
+    }
+
+    .core-skils .card p {
+        color: #b9b9ba;
+        padding-top: 12px;
+    }
+
+    .about-section .about-image {
+        margin-left: 23px;
+    }
+
+    .about-section .hero-text {
+        margin-left: 12px;
+    }
+
+    .about-section .hero-text h3 {
+        font-size: 36px;
+        padding-top: 13px;
+        max-width: 68%;
+    }
+
+    .about-section .hero-text p {
+        font-size: 13px;
+        padding: 20px 0 45px 0;
+        max-width: 86%;
+    }
+
+    .my-creation {
+        padding: 80px 0;
+    }
+
+    .ball-shape {
+        top: 1515px;
+        right: 69px;
+        width: 271px;
+    }
+
+    .section-subtitle {
+        padding-top: 15px;
+        margin-bottom: 53px;
+    }
+
+    .contact-us {
+        padding: 80px 0px;
+    }
+
+    .footer-section {
+        padding: 40px 0;
+    }
+
+
+}
+
+
+@media only screen and (max-width: 1366px){
+
+    .banner-and-header-block header .logo-block {
+        margin-left: 37px;
+    }
+
+    .banner-and-header-block .banner-section {
+        padding: 70px 0;
+    }
+
+    .banner-and-header-block .banner-section .hero-text {
+        margin-left: 48px;
+    }
+
+    .banner-and-header-block .banner-section .image-wraper {
+        margin-right: 77px;
+    }
+
+    .core-skils {
+        padding: 50px 0;
+    }
+
+    .about-section {
+        padding: 80px 0;
+    }
+
+    .my-creation {
+        padding: 70px 0;
+    }
+
+    .my-skil-section .col-3 {
+        flex: 0 0 auto;
+        width: 27%;
+    }
+
+    .my-skil-section .row{
+        justify-content: center;
+        gap:0 40px ;
+    }
+
+    .my-skil-section {
+        padding: 60px 0;
+    }
+
+    .contact-us {
+        padding: 70px 0px;
+    }
+
+    .input-section {
+        width: 850px;
+    }
+
+    .footer-section {
+        padding: 40px 30px;
+    }
+
+    .ball-shape {
+        top: 1487px;
+    }
+
+}
+
+
+@media only screen and (max-width: 1280px){
+
+    .banner-and-header-block header .stellarnav ul li a {
+        font-size: 16PX;
+    }
+
+    .banner-and-header-block header .right-block a {
+        font-size: 13px;
+        padding: 15px 15px;
+    }
+
+    .banner-and-header-block header .stellarnav ul li a {
+        font-size: 15px;
+    }
+
+    .banner-and-header-block .banner-section {
+        padding: 60px 0;
+    }
+
+    .banner-and-header-block .banner-section .hero-text h1 {
+        font-size: 42px;
+    }
+
+    .banner-and-header-block .banner-section .banner-shape {
+        top: 29px;
+    }
+
+    .banner-and-header-block .banner-section .hero-text h2 {
+        font-size: 19px;
+        margin-top: 22px;
+    }
+
+    .banner-and-header-block .banner-section .hero-text p {
+        font-size: 12px;
+        line-height: 19px;
+        margin-top: 15px;
+        max-width: 92%;
+    }
+
+    .button-style {
+        border-radius: 50px;
+        padding: 13px 24px;
+    }
+
+    .banner-and-header-block .banner-section .image-wraper {
+        width: 356px;
+        height: 346px;
+        margin-right: 84px;
+    }
+
+    .about-section{
+        padding: 0 0 60px 0;
+    }
+
+    .about-section .hero-text h3 {
+        font-size: 30px;
+        max-width: 68%;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .about-section .hero-text p {
+        font-size: 12px;
+        padding: 25px 0 40px 0;
+        max-width: 99%;
+        text-align: center;
+        max-width: 75%;
+        margin: 0 auto;
+    }
+
+    .about-section .button-style {
+        border-radius: 50px;
+        padding: 13px 24px;
+        margin: 0 auto;
+        display: block;
+        width: max-content;
+    }
+
+    .about-section .hero-text h4 {
+        text-align: center;
+    }
+
+    .about-section .hero-text .line-shape {
+        display: none;
+    }
+
+    .about-section .col-6 {
+        flex: 0 0 auto;
+        width: 100%;
+        /* display: flex; */
+    }
+
+    .ball-shape {
+        top: 1160px;
+        right: 53px;
+        width: 200px;
+    }
+
+    .section-subtitle {
+        padding-top: 10px;
+        margin-bottom: 39px;
+        max-width: 59%;
+        font-size: 12px;
+    }
+
+    .my-creation  .pt-5 {
+        padding-top: 2rem!important;
+    }
+
+    .my-creation  .col-3 {
+        flex: 0 0 auto;
+        width: 33%;
+    }
+
+    .my-creation  .row{
+        justify-content: center;
+    }
+
+    .my-skil-section {
+        padding: 50px 0;
+    }
+
+    .my-skil-section .skill .right-block .skill-bar {
+        height: 4px;
+        width: 232px;
+    }
+
+    .my-skil-section .skill .right-block .skill-bar .skill-fill {
+        height: 4px;
+    }
+
+    .my-skil-section .skill .right-block .skill-bar .skill-fill span {
+        font-size: 13px;
+    }
+
+    .contact-us {
+        padding: 50px 0px;
+    }
+
+    .input-section {
+        width: 750px;
+        padding: 30px;
+    }
+
+    .input-section label {
+        padding-top: 15px;
+    }
+
+    .footer-section {
+        padding: 40px 10px;
+    }
+
+    .footer-section .icon i {
+        font-size: 20px;
+        padding: 6px;
+    }
+
+    .footer-section a {
+        font-size: 11px;
+        line-height: 14px;
+    }
+
+    .about-section .about-image {
+        margin-left: 23px;
+        display: none;
+    }
+}
+
+
+
+@media only screen and (max-width: 1024px){
+
+    .banner-and-header-block .banner-section {
+        padding: 52px 0;
+    }
+
+    .banner-and-header-block .banner-section .hero-text h2 {
+        font-size: 18px;
+        margin-top: 19px;
+    }
+
+    .banner-and-header-block .banner-section .hero-text p {
+        font-size: 11px;
+        line-height: 18px;
+        max-width: 94%;
+    }
+
+    .banner-and-header-block .banner-section .hero-text .pt-4 {
+        padding-top: 0.5rem!important;
+    }
+
+    .core-skils {
+        padding: 35px 0;
+    }
+
+    .core-skils .card .icon-block i {
+        font-size: 27px;
+        padding: 17px;
+    }
+
+    .core-skils .card h3 {
+        font-size: 18px;
+        padding-top: 10px;
+    }
+
+    .core-skils .card p {
+        font-size: 11px;
+        line-height: 15px;
+        padding-top: 9px;
+    }
+
+    .about-section .hero-text h4 {
+        font-size: 22px;
+    }
+
+    .about-section .hero-text h3 {
+        font-size: 24px;
+        padding-top: 11px;
+        max-width: 84%;
+    }
+
+    .about-section .hero-text p {
+        padding: 20px 0 30px 0;
+        max-width: 80%;
+    }
+
+    .ball-shape {
+        top: 1069px;
+        right: 42px;
+        width: 197px;
+    }
+
+    .my-creation {
+        padding: 50px 0;
+    }
+
+    .my-skil-section {
+        padding: 40px 0;
+    }
+
+    .my-creation .card .text-content p {
+        font-size: 9px;
+    }
+
+    .contact-us {
+        padding: 40px 0px;
+    }
+
+    .input-section {
+        width: 652px;
+        padding: 25px;
+    }
+
+    .input-section label {
+        padding-top: 12px;
+        font-size: 12px;
+    }
+
+    .footer-section a {
+        font-size: 11px;
+        line-height: 16px;
+    }
+}
+
+
+
+@media only screen and (max-width: 991px){
+
+
+    .banner-and-header-block header .stellarnav ul li a {
+        font-size: 13px;
+    }
+
+    .banner-and-header-block header {
+        padding: 20px 0;
+    }
+
+    .banner-and-header-block header .right-block a {
+        font-size: 13px;
+        padding: 13px 15px;
+    }
+
+    .banner-and-header-block header .logo-block {
+        margin-left: 7px;
+    }
+
+    .banner-and-header-block header .right-block {
+        margin-right: 8px;
+    }
+
+    .banner-and-header-block .banner-section {
+        padding: 30px 0;
+    }
+
+    .banner-and-header-block .banner-section .image-wraper {
+        width: 273px;
+        height: 263px;
+        margin-right: 34px;
+    }
+
+    .banner-and-header-block .banner-section .hero-text {
+        margin-left: 30px;
+    }
+
+    .banner-and-header-block .banner-section .hero-text h1 {
+        font-size: 30px;
+    }
+
+    .banner-and-header-block .banner-section .banner-shape {
+        top: 18px;
+        left: -15px;
+    }
+
+    .banner-and-header-block .banner-section .hero-text h2 {
+        font-size: 13px;
+        margin-top: 13px;
+    }
+
+    .banner-and-header-block .banner-section .hero-text p {
+        font-size: 10px;
+        line-height: 14px;
+        max-width: 96%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .core-skils .card .icon-block i {
+        font-size: 16px;
+        padding: 13px;
+    }
+
+    .core-skils .card h3 {
+        font-size: 14px;
+        padding-top: 8px;
+    }
+
+    .core-skils .card p {
+        font-size: 9px;
+        line-height: 14px;
+        padding-top: 6px;
+    }
+
+    .core-skils {
+        padding: 20px 0;
+    }
+
+    .about-section .hero-text h4 {
+        font-size: 20px;
+    }
+
+    .about-section .hero-text h3 {
+        font-size: 20px;
+        padding-top: 10px;
+        max-width: 100%;
+    }
+
+    .about-section .hero-text .line-shape {
+        width: 56px;
+        height: 5px;
+        margin-top: 9px;
+    }
+
+    .about-section .hero-text p {
+        font-size: 10px;
+        padding: 11px 0 35px 0;
+    }
+
+    .about-section {
+        padding: 0 0 50px 0;
+    }
+
+    .ball-shape {
+        top: 842px;
+    }
+
+    .section-title {
+        font-size: 24px;
+    }
+
+    .section-subtitle {
+        margin-bottom: 32px;
+        font-size: 12px;
+    }
+    
+    .button-style {
+        border-radius: 50px;
+        padding: 11px 21px;
+        font-size: 13px;
+    }
+
+    .my-skil-section .col-3 {
+        flex: 0 0 auto;
+        width: 38%;
+    }
+
+    .my-skil-section .row{
+        justify-content: start;
+        margin-left: 68px;
+    }
+
+    .my-skil-section {
+        padding: 30px 0;
+    }
+
+    .contact-us {
+        padding: 30px 0px;
+    }
+
+    .input-section {
+        width: 574px;
+        padding: 20px;
+    }
+
+    .input-section input {
+        padding: 7px;
+    }
+
+    .input-section textarea {
+        height: 100px;
+    }
+
+    .input-section label {
+        padding-top: 11px;
+        font-size: 12px;
+    }
+    
+    .footer-section a {
+        font-size: 11px;
+        line-height: 15px;
+    }
+
+    .footer-section .col-3 {
+        flex: 0 0 auto;
+        width: 33%;
+    }
+
+}
+
+
+@media only screen and (max-width: 767px){
+
+.stellarnav.mobile.active>ul, .stellarnav.mobile>ul {
+     /* display: block; */
+     position: absolute;
+     width: 300px;
+     top: 100px;
+     background-color: var(--dark-color);
+    }
+
+    .banner-and-header-block header .stellarnav ul li a {
+        font-size: 13px;
+        padding: 10px 10px;
+    }
+
+    .banner-and-header-block header .right-block a {
+        font-size: 11px;
+        padding: 9px 14px;
+    }
+
+    .banner-and-header-block header .gap-5 {
+        gap: 23px !important;
+    }
+
+    .banner-and-header-block header .stellarnav ul li a {
+        font-size: 11px;
+        background-color: var(--dark-color);
+    }
+
+    .banner-and-header-block header .logo-block {
+         width: 263px;
+    }
+
+    header .stellarnav .menu-toggle span.bars span {
+        display: block;
+        width: 22px;
+        height: 3px;
+        border-radius: 4px;
+        background: #ffffff;
+        margin: 0 0 3px;
+    }
+
+    a.menu-toggle.full {
+        padding: 0;
+    }
+
+    nav.stellarnav.mobile {
+        margin-left: 19px;
+    }
+
+    .banner-and-header-block .banner-section {
+        padding: 20px 0;
+    }
+
+    .banner-and-header-block .banner-section .hero-text h1 {
+        font-size: 24px;
+    }
+
+    .banner-and-header-block .banner-section .hero-text h2 {
+        font-size: 10px;
+        margin-top: 10px;
+    }
+
+    .banner-and-header-block .banner-section .hero-text p {
+        font-size: 8px;
+        line-height: 12px;
+        margin-top: 8px;
+        margin-bottom: 9px;
+    }
+
+    .banner-and-header-block .banner-section .banner-shape {
+        top: 16px;
+        left: -9px;
+    }
+
+    .banner-and-header-block .banner-section .image-wraper {
+        width: 207px;
+        height: 198px;
+        margin-right: 25px;
+    }
+
+    .banner-and-header-block .banner-section .hero-text .icon-block .icon i {
+        padding: 5px;
+        font-size: 10px;
+    }
+
+    .banner-and-header-block .banner-section .hero-text .icon-block {
+        margin-left: -9px;
+    }
+
+    .about-section .button-style {
+        border-radius: 50px;
+        padding: 9px 10px;
+        font-size: 11px;
+    }
+
+    .core-skils .card .icon-block i {
+        font-size: 15px;
+        padding: 8px;
+    }
+
+    .core-skils .card h3 {
+        font-size: 13px;
+        padding-top: 6px;
+    }
+
+    .core-skils .card p {
+        font-size: 8px;
+        line-height: 11px;
+        padding-top: 7px;
+    }
+
+    .about-section {
+        padding:0 0 40px 0;
+    }
+
+    .ball-shape {
+        top: 740px;
+        width: 112PX;
+        right: 39px;
+    }
+
+    .button-style {
+        padding: 11px 14px;
+    }
+
+    .about-section .hero-text h4 {
+        font-size: 16px;
+    }
+
+    .about-section .hero-text h3 {
+        font-size: 19px;
+        padding-top: 10px;
+        max-width: 100%;
+    }
+
+    .about-section .hero-text p {
+        font-size: 9px;
+        padding: 10px 0 25px 0;
+    }
+
+    .my-creation  .pt-5 {
+        padding-top: 1rem!important;
+    }
+
+    .my-creation  .col-3 {
+        flex: 0 0 auto;
+        width: 50%;
+    }
+
+    .my-creation .gap-5 {
+        gap: 20px !important;
+    }
+
+    .my-creation .card {
+        margin-top: 20px;
+    }
+
+    .my-creation .card .text-content h5 {
+        font-size: 13px;
+    }
+
+    .my-creation .card .text-content h4 {
+        font-size: 11px;
+    }
+
+    .input-section {
+        width: 460px;
+        padding: 20px;
+    }
+
+    .input-section label {
+        padding-top: 7px;
+        font-size: 11px;
+    }
+
+    .input-section input {
+        font-size: 11px;
+        margin-top: 4px;
+    }
+
+    .input-section textarea {
+        height: 85px;
+    }
+
+    .my-skil-section .row {
+        justify-content: start;
+        margin: 0 !important;
+    }
+
+    .my-skil-section .col-3 {
+        flex: 0 0 auto;
+        width: 52%;
+    }
+
+    .my-skil-section  .row{
+        justify-content: center;
+    }
+
+    .my-skil-section .skill .right-block .skill-bar {
+        height: 4px;
+        width: 241px;
+    }
+
+    .section-subtitle {
+        margin-bottom: 32px;
+        font-size: 11px;
+    }
+
+    .footer-section {
+        padding: 25px 50px;
+    }
+
+    .footer-section .col-3 {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    .footer-section .col-3 .mb-2 {
+        margin-bottom: 15px !important;
+    }
+
+    .footer-section  .logo-block {
+        display: flex;
+        margin-bottom: 25px;
+    }
+
+    .social-media-link {
+        padding-top: 10px;
+    }
+
+    .down-footer p {
+        font-size: 11px;
+    }
+
+    .footer-section a {
+        line-height: 16px;
+        color: #cacfce;
+    }
+}
+
+
+@media only screen and (max-width: 575px){
+    .banner-and-header-block header .right-block {
+        margin-right: 0px;
+    }
+
+    .banner-and-header-block header .right-block a {
+        font-size: 9px;
+        padding: 6px 7px;
+    }
+
+    .banner-and-header-block header .logo-block {
+    width: 230px;
+    margin-right: 6px;
+}
+
+    nav.stellarnav.mobile {
+        margin-left: 13px;
+    }
+
+    .banner-and-header-block header .right-block a {
+        font-size: 9px;
+        padding: 9px 15px;
+    }
+
+    .banner-and-header-block header .stellarnav ul li a {
+        font-size: 10px;
+    }
+
+    .banner-and-header-block .banner-section .image-wraper {
+        width: 178px;
+        height: 173px;
+        margin-right: 14px;
+    }
+
+    .banner-and-header-block .banner-section .hero-text h1 {
+        font-size: 19px;
+    }
+
+    .banner-and-header-block .banner-section .hero-text h2 {
+        font-size: 8px;
+        margin-top: 12px;
+    }
+
+    .banner-and-header-block .banner-section .hero-text p {
+        font-size: 7px;
+        line-height: 9px;
+        margin-top: 8px;
+        margin-bottom: 9px;
+    }
+
+    .about-section .button-style {
+        border-radius: 50px;
+        padding: 6px 8px;
+        font-size: 9px;
+    }
+
+    .banner-and-header-block .banner-section .hero-text .icon-block {
+        margin-left: -15px;
+    }
+
+    .banner-and-header-block .banner-section .hero-text .icon-block.d-flex.gap-3 {
+        gap: 5px !important;
+    }
+
+    .banner-and-header-block .banner-section .hero-text .icon-block .icon i {
+        padding: 4px;
+        font-size: 7px;
+    }
+
+    .button-style {
+        border-radius: 50px;
+        padding: 8px 13px;
+        font-size: 10px;
+    }
+
+    .core-skils .col-4 {
+        flex: 0 0 auto;
+        width: 100%;
+    }
+
+    .core-skils .card .icon-block i {
+        font-size: 11px;
+        padding: 5px;
+    }
+    .core-skils .card {
+        padding-bottom: 15px;
+    }
+
+    .my-skil-section .skill .right-block h5 {
+        font-size: 10px;
+    }
+
+    .my-skil-section .skill .right-block .skill-bar .skill-fill span {
+        font-size: 12px;
+    }
+
+    .ball-shape {
+        top: 778px;
+        width: 96PX;
+        right: 32px;
+    }
+
+    .section-title {
+        font-size: 20px;
+    }
+
+    .section-subtitle {
+        margin-bottom: 20px;
+        font-size: 9px;
+    }
+
+    .my-skil-section .skill .right-block .skill-bar {
+        height: 4px;
+        width: 183px;
+    }
+
+    .my-skil-section {
+        padding: 20px 0;
+    }
+
+    .input-section {
+        width: 400px;
+        padding: 20px;
+    }
+
+    .input-section input {
+        font-size: 9px;
+        margin-top: 3px;
+    }
+
+    .input-section label {
+        padding-top: 7px;
+        font-size: 10px;
+    }
+
+    .input-section textarea::placeholder{
+        font-size: 10px;
+    }
+
+    .footer-section {
+        padding: 25px 30px;
+    }
+}
+
+@media only screen and (max-width: 480px){
+
+
+    .banner-and-header-block header {
+        padding: 10px 0;
+    }
+    header .stellarnav .menu-toggle span.bars span {
+        width: 18px;
+        height: 2px;
+    }
+
+    .banner-and-header-block header .right-block a {
+        font-size: 9px;
+        padding: 9px 12px;
+    }
+
+    .banner-and-header-block .banner-section .image-wraper {
+        width: 155px;
+        height: 145px;
+        margin-right: 8px;
+    }
+
+    .banner-and-header-block .banner-section .col-6.d-flex.justify-content-end {
+        align-items: center;
+    }
+
+    .banner-and-header-block .banner-section .hero-text {
+        margin-left: 10px;
+    }
+
+    .banner-and-header-block .banner-section .hero-text h1 {
+        font-size: 17px;
+    }
+
+    .banner-and-header-block .banner-section .banner-shape {
+        top: 12px;
+        left: -6px;
+    }
+
+    .banner-and-header-block .banner-section .hero-text h2 {
+        font-size: 9px;
+        margin-top: 12px;
+    }
+
+    .banner-and-header-block .banner-section .hero-text p {
+        font-size: 7px;
+        line-height: 9px;
+        margin-top: 4px;
+        margin-bottom: 5px;
+    }
+
+    .button-style {
+        border-radius: 50px;
+        padding: 5px 9px;
+        font-size: 8px;
+    }
+
+    .core-skils {
+        padding: 10px 0;
+    }
+
+    .core-skils .card .icon-block i {
+        font-size: 10px;
+        padding: 4px;
+    }
+
+    .core-skils .card h3 {
+        font-size: 9px;
+        padding-top: 4px;
+    }
+
+    .core-skils .card p {
+        font-size: 7px;
+        line-height: 9px;
+        padding-top: 5px;
+    }
+
+    .about-section .hero-text h3 {
+        font-size: 17px;
+        padding-top: 7px;
+        max-width: 85%;
+    }
+
+    .about-section .hero-text p {
+        font-size: 9px;
+        padding: 13px 0 20px 0;
+    }
+
+    .ball-shape {
+        top: 852px;
+        width: 96PX;
+        right: 30px;
+    }
+
+    .section-title {
+        font-size: 17px;
+    }
+
+    .section-subtitle {
+        padding-top: 6px;
+        font-size: 8px;
+    }
+
+    .my-creation  .col-3 {
+        flex: 0 0 auto;
+        width: 92%;
+    }
+
+    .my-skil-section .col-3 {
+        flex: 0 0 auto;
+        width: 100%;
+    }
+
+    .my-skil-section .skill .right-block .skill-bar {
+        height: 4px;
+        width: 315px;
+    }
+
+    .input-section {
+        width: 355px;
+        padding: 15px;
+    }
+
+    .input-section textarea {
+        height: 71px;
+    }
+
+    .footer-section {
+        padding: 20px 30px;
+    }
+
+    .footer-section  .logo-block {
+        display: flex;
+        margin-bottom: 18px;
+    }
+
+    .footer-section a {
+        font-size: 10px;
+    }
+
+    .footer-section .col-3 .mb-2 {
+        margin-bottom: 10px !important;
+    }
+
+    .footer-section .col-3 {
+        margin-bottom: 10px;
+    }
+
+    .footer-section  .d-flex.align-items-center.mb-3 {
+        margin-bottom: 10px !important;
+    }
+
+    .down-footer p {
+        font-size: 8px;
+    }
+}
+
+@media only screen and (max-width: 414px){
+
+    .banner-and-header-block header .right-block a {
+        font-size: 8px;
+        padding: 8px 9px;
+    }
+
+    nav.stellarnav.mobile {
+        margin-left: 8px;
+    }
+
+    .banner-and-header-block .banner-section {
+        padding: 15px 0;
+    }
+
+    .banner-and-header-block .banner-section .hero-text h1 {
+        font-size: 15px;
+    }
+
+    .banner-and-header-block .banner-section .hero-text h2 {
+        font-size: 8px;
+        margin-top: 10px;
+    }
+
+    .ball-shape {
+        top: 879px;
+        width: 87PX;
+        right: 25px;    
+    }   
+
+    .my-creation .gap-5 {
+        gap: 5px !important;
+        padding: 0;
+    }
+
+    .my-creation .button-style {
+        border-radius: 50px;
+        padding: 8px 10px;
+        font-size: 8px;
+    }
+
+    .banner-and-header-block .banner-section .hero-text p {
+        font-size: 6px;
+        line-height: 8px;
+        margin-top: 4px;
+        margin-bottom: 3px;
+    }
+
+    .my-skil-section .skill .right-block .skill-bar {
+        width: 270px;
+    }
+
+    .input-section {
+        width: 320px;
+        padding: 15px;
+    }
+
+    .input-section input {
+        font-size: 9px;
+        margin-top: 3px;
+        display: block;
+    }
+}
+
+@media only screen and (max-width: 375px){
+
+    .banner-and-header-block header .logo-block {
+        width: 152px;
+        margin: 0;
+    }
+
+    .stellarnav.mobile .call-btn-mobile, .stellarnav.mobile .close-menu, .stellarnav.mobile .dd-toggle, .stellarnav.mobile .location-btn-mobile, .stellarnav.mobile .menu-toggle {
+        margin-left: 5px;
+    }
+
+    .banner-and-header-block header {
+        padding: 7px 0;
+    }
+
+    .banner-and-header-block header .right-block a {
+        padding: 6px 8px;
+    }
+
+    .banner-and-header-block .banner-section .image-wraper {
+        width: 138px;
+        height: 120px;
+        margin-right: 7px;
+    }
+
+    .banner-and-header-block .banner-section .hero-text {
+        margin-left: 0px;
+    }
+
+    .banner-and-header-block .banner-section .hero-text h1 {
+        font-size: 13px;
+    }
+
+    .banner-and-header-block .banner-section .hero-text p {
+        font-size: 5px;
+        line-height: 7px;
+        margin-bottom: 1px;
+    }
+    
+    .banner-and-header-block .banner-section .hero-text h2 {
+        font-size: 7px;
+        margin-top: 9px;
+    }
+
+    .button-style {
+        border-radius: 50px;
+        padding: 5px 8px;
+        font-size: 8px;
+    }
+
+    .core-skils .col-4 {
+        flex: 0 0 auto;
+        width: 100%;
+    }
+
+    .core-skils .card .icon-block i {
+        font-size: 11px;
+        padding: 5px;
+    }
+    .core-skils .card {
+        padding-bottom: 15px;
+    }
+
+    .about-section .button-style {
+        padding: 9px 12px;
+    }
+
+   .ball-shape {
+        top: 956px;
+        width: 65PX;
+        right: 23px;
+    }
+
+    .section-title {
+        font-size: 16px;
+    }
+
+    .my-creation .button-style {
+        padding: 8px 9px;
+    }
+
+    .my-creation .card .text-content h4 {
+        font-size: 9px;
+    }
+
+    .contact-us {
+        padding: 25px 0px;
+    }
+
+    .my-skil-section .skill .right-block .skill-bar {
+        width: 223px;
+    }
+
+    .input-section {
+        width: 275px;
+    }
+
+    .input-section .col-6 {
+        flex: 0 0 auto;
+        width: 100%;
+    }
+
+    input.button-style.submit-button {
+        margin-top: 15px;
+        font-size: 12px;
+    }
+
+}
+
+@media only screen and (max-width: 320px){
+
+    header .stellarnav .menu-toggle span.bars span {
+        width: 13px;
+        height: 1px;
+    }
+    
+
+    .banner-and-header-block header .logo-block {
+        width: 107px;
+    }
+    .banner-and-header-block .banner-section .hero-text h1 {
+        font-size: 12px;
+    }
+
+    .banner-and-header-block .banner-section .banner-shape {
+        top: 8px;
+    }
+
+    .banner-and-header-block .banner-section .image-wraper {
+        width: 140px;
+        height: 113px;
+        margin-right: 7px;
+    }
+
+    .button-style {
+        padding: 5px 6px;
+        font-size: 6px;
+    }
+
+    .banner-and-header-block .banner-section .hero-text .icon-block .icon i {
+        padding: 3px;
+        font-size: 5px;
+    }
+
+    .my-creation .button-style {
+        padding: 8px 6px;
+    }
+
+    .my-skil-section .skill .right-block .skill-bar {
+        width: 197px;
+    }
+
+    .input-section {
+        width: 252px;
+    }
+
+    .footer-section .icon i {
+        font-size: 15px;
+        padding: 6px;
+    }
+
+    .footer-section  .logo-block {
+        max-width: 40%;
+    }
+
+    .footer-section a i {
+        font-size: 17px;
+    }
+
+    .footer-section {
+        padding: 17px 10px;
+    }
+
+    .down-footer p {
+        font-size: 7px;
+    }
+
+    .down-footer {
+        padding: 10px 0;
+    }
+}
+
+
+/*
+Breakpoints
+1600px
+1440px
+1366px
+1280px
+1024px
+991px
+767px
+575px
+480px
+414px
+375px
+320px
+300px
+
+*/

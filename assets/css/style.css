@@ -26,6 +26,12 @@
 .banner-and-header-block header .stellarnav ul{
     padding: 0;
     margin: 0;
+    position: absolute;
+}
+
+.stellarnav {
+    display: flex;
+    justify-content: center !important;
 }
 
 .banner-and-header-block header .stellarnav ul li {

@@ -1,3 +1,4 @@
+
 @media only screen and (max-width: 1600px) {
 
     .core-skils {
@@ -26,6 +27,7 @@
 }
 
 @media only screen and (max-width: 1440px) {
+    
 
     .banner-and-header-block header .right-block {
         margin-right: 50px;
@@ -139,7 +141,6 @@
 
 
 @media only screen and (max-width: 1366px){
-
     .banner-and-header-block header .logo-block {
         margin-left: 37px;
     }
@@ -645,8 +646,10 @@
 .stellarnav.mobile.active>ul, .stellarnav.mobile>ul {
      /* display: block; */
      position: absolute;
-     width: 300px;
+     width: 265px;
      top: 100px;
+     left: 50%;
+     transform: translate(-50%);
      background-color: var(--dark-color);
     }
 
@@ -901,6 +904,15 @@
         margin-left: 13px;
     }
 
+    .stellarnav.mobile.active>ul, .stellarnav.mobile>ul {
+        width: 210px;
+    }
+
+    .banner-and-header-block header .stellarnav ul li a {
+        font-size: 13px;
+        padding: 8px 5px;
+    }
+
     .banner-and-header-block header .right-block a {
         font-size: 9px;
         padding: 9px 15px;
@@ -909,6 +921,7 @@
     .banner-and-header-block header .stellarnav ul li a {
         font-size: 10px;
     }
+
 
     .banner-and-header-block .banner-section .image-wraper {
         width: 178px;
@@ -1040,6 +1053,10 @@
     .banner-and-header-block header .right-block a {
         font-size: 9px;
         padding: 9px 12px;
+    }
+    .stellarnav.mobile.active>ul, .stellarnav.mobile>ul {
+        width: 189px;
+        top: 70px;
     }
 
     .banner-and-header-block .banner-section .image-wraper {
@@ -1194,6 +1211,11 @@
         margin-left: 8px;
     }
 
+    .stellarnav.mobile.active>ul, .stellarnav.mobile>ul {
+        width: 169px;
+        top: 63px;
+    }
+
     .banner-and-header-block .banner-section {
         padding: 15px 0;
     }
@@ -1264,6 +1286,20 @@
 
     .banner-and-header-block header .right-block a {
         padding: 6px 8px;
+    }
+
+    .stellarnav.mobile.active>ul, .stellarnav.mobile>ul {
+        width: 153px;
+        top: 50px;
+    }
+
+    .banner-and-header-block header .stellarnav ul li a {
+        padding: 6px 5px;
+    }
+
+    .banner-and-header-block header .stellarnav ul li {
+        padding: 0 7px;
+        margin: 0;
     }
 
     .banner-and-header-block .banner-section .image-wraper {

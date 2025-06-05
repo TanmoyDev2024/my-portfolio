@@ -41,6 +41,101 @@
 
 <body>
 
+      <div id="fadein"></div>
+  <style>
+    /* For best practice, move CSS below to an external CSS file. */
+    @keyframes fadeinall {
+    0% {
+      opacity: 1; }
+    97% {
+      opacity: 0; }
+    98% {
+      opacity: 0;
+      -webkit-transform: translateY(0);
+      transform: translateY(0); }
+    100% {
+      opacity: 0;
+      -webkit-transform: translateY(-100%);
+      transform: translateY(-100%);
+      z-index: -1; } }
+    #fadein {
+      opacity: 1;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      -webkit-transform: translateY(0);
+      -ms-transform: translateY(0);
+      transform: translateY(0);
+      background-color: #0F0716;
+      z-index: 999;
+      -webkit-animation-fill-mode: forwards;
+      animation-fill-mode: forwards;
+      -webkit-animation: fadeinall 1s normal both;
+      animation: fadeinall 1s normal both;
+      -webkit-animation-delay: 0.3s;
+      animation-delay: 0.3s; }
+  </style>
+  <div id="loader-wrapper">
+    <span class="loader"></span>
+  </div>
+  <style>
+    /* For best practice, move CSS below to an external CSS file. */
+    /* @keyframes rotation {
+      0% {
+        transform: rotate(0deg); }
+      100% {
+        transform: rotate(360deg); } } */
+    #loader-wrapper {
+      background-color: #0F0716;
+      position: fixed;
+      top: 0;
+      left: 0;
+      z-index: 999;
+      width: 100%;
+      height: 100%;
+      text-align: center; 
+    }
+    .loader {
+        width: 64px;
+        height: 64px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background-image:
+          linear-gradient(#9260F8 16px, transparent 0) ,
+          linear-gradient(#FFFFFF 16px, transparent 0) ,
+          linear-gradient(#FFFFFF 16px, transparent 0) ,
+          linear-gradient(#9260F8 16px, transparent 0);
+        background-repeat: no-repeat;
+        background-size: 16px 16px;
+        background-position: left top , left bottom , right top , right bottom;
+        animation: rotated 1s linear infinite;
+      }
+      @keyframes rotated {
+        0% {
+          width: 60px;
+          height: 60px;
+          transform: rotate(0deg)
+        }
+        50% {
+          width:35px;
+          height:35px;
+          transform: rotate(180deg)
+        }
+        100% {
+          width: 60px;
+          height: 60px;
+          transform: rotate(360deg)
+        }
+      }
+    
+  </style>
+
+  
+
     <!-- HEADER AND BANNER SECTION START -->
     <div class="banner-and-header-block">
         <!-- HEADER START -->
@@ -353,10 +448,10 @@
                                 </div>
                                 <div class="text-content pt-2">
                                     <div class="d-flex justify-content-between">
-                                        <h5>ui 9</h5>
+                                        <h5>social media post</h5>
                                         <p>hot</p>
                                     </div>
-                                    <h4>project name</h4>
+                                    <h4>Marketing agency</h4>
                                 </div>
                             </div>
                         </a>
@@ -372,10 +467,10 @@
                                 </div>
                                 <div class="text-content pt-2">
                                     <div class="d-flex justify-content-between">
-                                        <h5>ui 9</h5>
+                                        <h5>social media post</h5>
                                         <p>hot</p>
                                     </div>
-                                    <h4>project name</h4>
+                                    <h4>food</h4>
                                 </div>
                             </div>
                         </a>
@@ -390,10 +485,10 @@
                                 </div>
                                 <div class="text-content pt-2">
                                     <div class="d-flex justify-content-between">
-                                        <h5>ui 9</h5>
+                                        <h5>social media post</h5>
                                         <p>hot</p>
                                     </div>
-                                    <h4>project name</h4>
+                                    <h4>fashion sale</h4>
                                 </div>
                             </div>
                         </a>
@@ -408,10 +503,10 @@
                                 </div>
                                 <div class="text-content pt-2">
                                     <div class="d-flex justify-content-between">
-                                        <h5>ui 9</h5>
+                                        <h5>ui design</h5>
                                         <p>hot</p>
                                     </div>
-                                    <h4>project name</h4>
+                                    <h4>movei platform</h4>
                                 </div>
                             </div>
                         </a>
@@ -433,10 +528,10 @@
                                 </div>
                                 <div class="text-content pt-2">
                                     <div class="d-flex justify-content-between">
-                                        <h5>ui 9</h5>
+                                        <h5>Redesign (live)</h5>
                                         <p>hot</p>
                                     </div>
-                                    <h4>project name</h4>
+                                    <h4>agnirath</h4>
                                 </div>
                             </div>
                         </a>
@@ -451,10 +546,10 @@
                                 </div>
                                 <div class="text-content pt-2">
                                     <div class="d-flex justify-content-between">
-                                        <h5>ui 9</h5>
+                                        <h5>new design</h5>
                                         <p>hot</p>
                                     </div>
-                                    <h4>project name</h4>
+                                    <h4>portfolio</h4>
                                 </div>
                             </div>
                         </a>
@@ -469,10 +564,10 @@
                                 </div>
                                 <div class="text-content pt-2">
                                     <div class="d-flex justify-content-between">
-                                        <h5>ui 9</h5>
+                                        <h5>redesign</h5>
                                         <p>hot</p>
                                     </div>
-                                    <h4>project name</h4>
+                                    <h4>IT institute</h4>
                                 </div>
                             </div>
                         </a>
@@ -487,10 +582,10 @@
                                 </div>
                                 <div class="text-content pt-2">
                                     <div class="d-flex justify-content-between">
-                                        <h5>ui 9</h5>
+                                        <h5>my first project</h5>
                                         <p>hot</p>
                                     </div>
-                                    <h4>project name</h4>
+                                    <h4>megakit</h4>
                                 </div>
                             </div>
                         </a>
@@ -510,78 +605,27 @@
                                 </div>
                                 <div class="text-content pt-2">
                                     <div class="d-flex justify-content-between">
-                                        <h5>ui 9</h5>
+                                        <h5>responsive web</h5>
                                         <p>hot</p>
                                     </div>
-                                    <h4>project name</h4>
+                                    <h4>IT institute</h4>
                                 </div>
                             </div>
                         </a>
                     </div>
 
                     <div class="col-3">
-                        <a  class="card" href="./assets/images/food all design template.jpg" >
+                        <a  class="card" href="https://tanmoydev2024.github.io/Aviator_Complete-responsive/" target="_blank">
                             <div>
                                 <div class="img-block">
-                                    <img src="./assets/images/food all design template.jpg" alt="" class="img-fluid">
+                                    <img src="./assets/images/aviator.png" alt="" class="img-fluid">
                                 </div>
                                 <div class="text-content pt-2">
                                     <div class="d-flex justify-content-between">
-                                        <h5>ui 9</h5>
+                                        <h5>responsive web</h5>
                                         <p>hot</p>
                                     </div>
-                                    <h4>project name</h4>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-
-                    <div class="col-3">
-                        <a  class="card" href="./assets/images/food all design template.jpg" >
-                            <div>
-                                <div class="img-block">
-                                    <img src="./assets/images/food all design template.jpg" alt="" class="img-fluid">
-                                </div>
-                                <div class="text-content pt-2">
-                                    <div class="d-flex justify-content-between">
-                                        <h5>ui 9</h5>
-                                        <p>hot</p>
-                                    </div>
-                                    <h4>project name</h4>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-
-                    <div class="col-3">
-                        <a  class="card" href="./assets/images/food all design template.jpg" >
-                            <div>
-                                <div class="img-block">
-                                    <img src="./assets/images/food all design template.jpg" alt="" class="img-fluid">
-                                </div>
-                                <div class="text-content pt-2">
-                                    <div class="d-flex justify-content-between">
-                                        <h5>ui 9</h5>
-                                        <p>hot</p>
-                                    </div>
-                                    <h4>project name</h4>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-
-                    <div class="col-3">
-                        <a  class="card" href="./assets/images/food all design template.jpg" >
-                            <div>
-                                <div class="img-block">
-                                    <img src="./assets/images/food all design template.jpg" alt="" class="img-fluid">
-                                </div>
-                                <div class="text-content pt-2">
-                                    <div class="d-flex justify-content-between">
-                                        <h5>ui 9</h5>
-                                        <p>hot</p>
-                                    </div>
-                                    <h4>project name</h4>
+                                    <h4>IT institute</h4>
                                 </div>
                             </div>
                         </a>
@@ -590,11 +634,9 @@
                 </div>
             </div>
 
-
-
         </div>
     </section>
-
+                                                                                                             
     <!-- MY SKILSET -->
     <section class="my-skil-section" id="my-skil-section">
         <div class="custom-container">
@@ -934,7 +976,22 @@
   
 
 
+<script type="text/javascript">
 
+  //loader
+window.onload = function(){
+  setTimeout(function(){
+    document.getElementById("fadein").remove();
+  },700000);
+};
+</script>
+<script type="text/javascript">
+  $(window).on('load', function() {
+    $("#loader-wrapper").fadeOut(700);
+  });
+
+  
+</script>
 
     <script>
         AOS.init();
